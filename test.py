@@ -3,6 +3,7 @@ import argparse
 
 def myfunc():
     print("hello world")
+    print("yuhhh")
 
 def parse_arguments():
     parser = argparse.ArgumentParser( 
